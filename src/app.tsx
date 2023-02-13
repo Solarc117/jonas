@@ -1,5 +1,5 @@
 import preactLogo from './assets/preact.svg'
-import '../public/css/app.css'
+import './css/app.css'
 
 export default function App() {
   return (
